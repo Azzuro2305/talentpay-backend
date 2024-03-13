@@ -1,12 +1,12 @@
-package org.talent.talent_play.service.impl;
+package org.talent.talent_pay.service.impl;
 
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
-import org.talent.talent_play.domain.UserInfo;
-import org.talent.talent_play.domain.UserValidateRequest;
-import org.talent.talent_play.entity.Users;
-import org.talent.talent_play.repo.UserRepo;
-import org.talent.talent_play.service.UserService;
+import org.talent.talent_pay.domain.UserInfo;
+import org.talent.talent_pay.domain.UserValidateRequest;
+import org.talent.talent_pay.entity.Users;
+import org.talent.talent_pay.repo.UserRepo;
+import org.talent.talent_pay.service.UserService;
 
 @Service
 @AllArgsConstructor

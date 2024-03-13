@@ -1,8 +1,8 @@
-package org.talent.talent_play.domain;
+package org.talent.talent_pay.domain;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.talent.talent_play.entity.Users;
+import org.talent.talent_pay.entity.Users;
 
 @Getter
 @Setter

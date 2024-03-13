@@ -1,4 +1,4 @@
-package org.talent.talent_play;
+package org.talent.talent_pay;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

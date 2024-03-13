@@ -1,7 +1,6 @@
-package org.talent.talent_play.entity;
+package org.talent.talent_pay.entity;
 
 import jakarta.persistence.*;
-import lombok.Generated;
 import lombok.Getter;
 import lombok.Setter;
 

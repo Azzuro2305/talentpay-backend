@@ -1,4 +1,4 @@
-package org.talent.talent_play;
+package org.talent.talent_pay;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

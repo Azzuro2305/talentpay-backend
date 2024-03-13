@@ -1,7 +1,7 @@
-package org.talent.talent_play.repo;
+package org.talent.talent_pay.repo;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.talent.talent_play.entity.Transaction;
+import org.talent.talent_pay.entity.Transaction;
 
 import java.util.UUID;
 

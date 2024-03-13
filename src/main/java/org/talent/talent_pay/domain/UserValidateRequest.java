@@ -1,4 +1,4 @@
-package org.talent.talent_play.domain;
+package org.talent.talent_pay.domain;
 
 import lombok.Getter;
 import lombok.Setter;

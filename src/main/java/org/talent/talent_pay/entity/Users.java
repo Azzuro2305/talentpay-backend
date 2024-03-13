@@ -1,4 +1,4 @@
-package org.talent.talent_play.entity;
+package org.talent.talent_pay.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -19,6 +19,7 @@ public class Users {
     private UUID id;
     private String userName;
     private String phoneNumber;
+    private String mail;
     private String address;
     private String nrc;
     private LocalDate dob;
